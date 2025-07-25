@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1076254256135",
+    "project_id": "trackexp-plus",
+    "storage_bucket": "trackexp-plus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076254256135:android:6d3382d662652a99320ea2",
+        "android_client_info": {
+          "package_name": "com.example.trackexp_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076254256135-rokpsr9qnai1pcmmalc83p2lvnnsm24e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBac3yIeuDG2Vz6_IheXRFuSxK4VwWsheA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076254256135-rokpsr9qnai1pcmmalc83p2lvnnsm24e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076254256135-gqkgnt9knk4u9kpjulcu2pgf30dnk7qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trackexpPlus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

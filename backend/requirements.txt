@@ -1,0 +1,8 @@
+npm i @nestjs/mongoose
+npm i @nestjs/config
+npm i @nestjs/jwt
+npm i @nestjs/passport
+npm i firebase-admin
+npm i class-validator
+npm i class-transformer
+npm i express

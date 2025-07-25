@@ -5,9 +5,11 @@
 *.swp
 .DS_Store
 .atom/
+.build/
 .buildlog/
 .history
 .svn/
+.swiftpm/
 migrate_working_dir/
 
 # IntelliJ related
@@ -41,42 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Flutter/Dart/Pub related
-.dart_tool/
-.packages
-.pub-cache/
-.flutter-versions
-.melos_tool/
-
-# IDEs
-.idea/
-.vscode/
-*.iml
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Environment
-.env
-.env.*
-
-# Generated files
-*.g.dart
-*.freezed.dart
-*.mocks.dart
-*.pb.dart
-*.pbjson.dart
-*.pbserver.dart
-*.graphql.dart
-
-# Firebase (optional)
-google-services.json
-GoogleService-Info.plist
-
-# Other
-coverage/
